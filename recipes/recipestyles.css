@@ -1,0 +1,17 @@
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+body{
+    background-color: lightyellow;
+}
+
+ul{
+    background-color: rgb(189, 179, 175);
+}
+
+h4{
+    font-size: 24px;
+}
